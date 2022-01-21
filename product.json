@@ -1,0 +1,223 @@
+[
+    {
+        "id":1,
+        "Désignation":"PREDATOR FREAK+",
+        "prix": "2800",
+        "catégorie":"white",
+        "disponibilité":["Tanger |"," Rabat |"," Casablanca |"," Agadir |"," Marrakech"],
+        "fournisseur":{
+            "RS":"nike",
+            "Adresse":"Tanger"
+        }
+    },
+    {
+        "id":2,
+        "Désignation":"PREDATOR FREAK+",
+        "prix":2240,
+        "catégorie":"orange",
+        "disponibilité":["Tanger |"," Rabat |"," Casablanca |"," Agadir |"," Marrakech"],
+        "fournisseur":{
+            "RS":"nike",
+            "Adresse":"Tanger"
+        }
+    },
+    {
+        "id":3,
+        "Désignation":"PREDATOR FREAK+",
+        "prix":2240,
+        "catégorie":"green",
+        "disponibilité":["Tanger |"," Casablanca |"," Agadir |"," Marrakech"],
+        "fournisseur":{
+            "RS":"nike",
+            "Adresse":"Tanger"
+        }
+    },
+    {
+        "id":4,
+        "Désignation":"PREDATOR SOUPLE",
+        "prix":1800,
+        "catégorie":"black",
+        "disponibilité":["Tanger |"," Rabat |"," Agadir |"," Marrakech"],
+        "fournisseur":{
+            "RS":"nike",
+            "Adresse":"Tanger"
+        }
+    },
+    {
+        "id":5,
+        "Désignation":"PREDATOR SOUPLE",
+        "prix":1800,
+        "catégorie":"red",
+        "disponibilité":["Tanger |"," Agadir |"," Marrakech"],
+        "fournisseur":{
+            "RS":"nike",
+            "Adresse":"Tanger"
+        }
+    },
+    {
+        "id":6,
+        "Désignation":"PREDATOR SOUPLE",
+        "prix":1800,
+        "catégorie":"purple",
+        "disponibilité":["Tanger |"," Rabat |"," Casablanca "],
+        "fournisseur":{
+            "RS":"nike",
+            "Adresse":"Tanger"
+        }
+    },
+    {
+        "id":7,
+        "Désignation":"PREDATOR MUTATOR LOW",
+        "prix":2190,
+        "catégorie":"gold",
+        "disponibilité":["Tanger |"," Rabat |"," Marrakech"],
+        "fournisseur":{
+            "RS":"nike",
+            "Adresse":"Tanger"
+        }
+    },
+    {
+        "id":8,
+        "Désignation":"PREDATOR MUTATOR LOW",
+        "prix":2190,
+        "catégorie":"black",
+        "disponibilité":["Tanger |"," Agadir |"," Marrakech"],
+        "fournisseur":{
+            "RS":"nike",
+            "Adresse":"Tanger"
+        }
+    },
+    {
+        "id":9,
+        "Désignation":"PREDATOR MUTATOR LOW",
+        "prix":2190,
+        "catégorie":"white",
+        "disponibilité":["Tanger |"," Rabat |"," Casablanca |"," Agadir |"," Marrakech"],
+        "fournisseur":{
+            "RS":"nike",
+            "Adresse":"Tanger"
+        }
+    },
+    {
+        "id":10,
+        "Désignation":"PREDATOR TURF",
+        "prix":2190,
+        "catégorie":"purple",
+        "disponibilité":[" Rabat |"," Casablanca |"," Agadir |"," Marrakech"],
+        "fournisseur":{
+            "RS":"nike",
+            "Adresse":"Tanger"
+        }
+    },
+    {
+        "id":11,
+        "Désignation":"PREDATOR TURF",
+        "prix":2190,
+        "catégorie":"red",
+        "disponibilité":["Tanger |"," Agadir |"," Marrakech"],
+        "fournisseur":{
+            "RS":"nike",
+            "Adresse":"Tanger"
+        }
+    },
+    {
+        "id":12,
+        "Désignation":"PREDATOR TURF",
+        "prix":2190,
+        "catégorie":"white",
+        "disponibilité":["Tanger |"," Rabat |"," Casablanca |"," Agadir |"," Marrakech"],
+        "fournisseur":{
+            "RS":"nike",
+            "Adresse":"Tanger"
+        }
+    },
+    {
+        "id":13,
+        "Désignation":"PREDATOR TURF",
+        "prix":2190,
+        "catégorie":"black",
+        "disponibilité":["Tanger |"," Rabat |"," Casablanca |"," Agadir |"," Marrakech"],
+        "fournisseur":{
+            "RS":"nike",
+            "Adresse":"Tanger"
+        }
+    },
+    {
+        "id":14,
+        "Désignation":"PREDATOR FUTSAL",
+        "prix":450,
+        "catégorie":"pink",
+        "disponibilité":["Tanger |"," Rabat |"," Casablanca |"," Agadir |"," Marrakech"],
+        "fournisseur":{
+            "RS":"nike",
+            "Adresse":"Tanger"
+        }
+    },
+    {
+        "id":15,
+        "Désignation":"PREDATOR FUTSAL",
+        "prix":450,
+        "catégorie":"blue",
+        "disponibilité":["Tanger |"," Rabat |"," Casablanca |"," Agadir |"," Marrakech"],
+        "fournisseur":{
+            "RS":"nike",
+            "Adresse":"Tanger"
+        }
+    },
+    {
+        "id":16,
+        "Désignation":"PREDATOR RUGBY+",
+        "prix":350,
+        "catégorie":"black",
+        "disponibilité":["Tanger |"," Rabat |"," Casablanca |"," Agadir |"," Marrakech"],
+        "fournisseur":{
+            "RS":"nike",
+            "Adresse":"Tanger"
+        }
+    },
+    {
+        "id":17,
+        "Désignation":"PREDATOR RUGBY+",
+        "prix":350,
+        "catégorie":"yellow",
+        "disponibilité":["Tanger |"," Rabat |"," Casablanca |"," Agadir |"," Marrakech"],
+        "fournisseur":{
+            "RS":"nike",
+            "Adresse":"Tanger"
+        }
+    },
+    {
+        "id":18,
+        "Désignation":"PROTÈGE-TIBIAS PREDATOR",
+        "prix":2190,
+        "catégorie":"black",
+        "disponibilité":[" Casablanca |"," Agadir |"," Marrakech"],
+        "fournisseur":{
+            "RS":"nike",
+            "Adresse":"Tanger"
+        }
+    },
+    {
+        "id":19,
+        "Désignation":"GANTS PREDATOR",
+        "prix":650,
+        "catégorie":"salmon",
+        "disponibilité":["Tanger"],
+        "fournisseur":{
+            "RS":"nike",
+            "Adresse":"Tanger"
+        }
+    },
+    {
+        "id":20,
+        "Désignation":"GANTS PREDATOR PRO",
+        "prix":1200,
+        "catégorie":"orange",
+        "disponibilité":["Tanger |"," Rabat |"," Casablanca |"," Agadir |"," Marrakech"],
+        "fournisseur":{
+            "RS":"nike",
+            "Adresse":"Tanger"
+        }
+    }
+    
+]
